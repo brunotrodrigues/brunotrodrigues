@@ -1,15 +1,12 @@
 <h1 align="center">Hi, I'm Bruno Rodrigues</h1>
 <h3 align="center">A web developer from Portugal</h3>
 
-<p align="left"> <a href="https://twitter.com/mrbonur" target="blank"><img src="https://img.shields.io/twitter/follow/mrbonur?logo=twitter&style=for-the-badge" alt="mrbonur" /></a> </p>
-
 - 🌱 I’m currently finishing my degree in **Tecnologias e Sistemas de Informação para a Web**
 
 - 📫 How to reach me **brunotrodrigues16@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mrbonur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrbonur" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brunotrodrigues16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunotrodrigues16" height="30" width="40" /></a>
 </p>
 
