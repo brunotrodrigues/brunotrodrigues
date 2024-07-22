@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunotrodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="brunotrodrigues" /> </p>
 
-- 🌱 I’m currently finishing my degree in **Tecnologias e Sistemas de Informação para a Web**
-
 - 📫 How to reach me **brunotrodrigues16@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
